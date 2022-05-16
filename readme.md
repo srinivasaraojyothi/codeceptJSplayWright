@@ -159,7 +159,7 @@ export class HomePage {
 
 .feature -->(stepdef.ts)-->(pageObjet.ts)-->playwright Driver-->real browser.
 # Code Examples
-  * Refer test folder.Explained in previou sections how to run sample code.
+  * Refer test folder.Explained in previous sections how to run sample code.
 # wdio official website
  * https://webdriver.io/
 # codeceptJS official website
