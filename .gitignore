@@ -1,0 +1,6 @@
+dist
+allure-report
+output
+mocha-awesome
+node_modules
+logs
