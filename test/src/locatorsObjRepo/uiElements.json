@@ -1,0 +1,11 @@
+{
+    "home/homeLabel": "//a[@aria-label='Airbnb Homepage']",
+    "home/learnMore": "//span[contains(text(),'Learn')]",
+    "home/locationInputbox": "//div[contains(text(),'Location')]",
+    "home/checkinDateInput": "//div[@data-testid='structured-search-input-field-split-dates-0']",
+    "home/checkinDateSelection": "//div/table/tbody/tr[4]/td[1]",
+    "home/checkoutDateInput": "//div[@data-testid='structured-search-input-field-split-dates-1']",
+    "home/addGuests": "//div[@data-testid='structured-search-input-field-guests-button']",
+    "home/experienceLink":"//button[@data-testid='header-tab-search-block-tab-true-EXPERIENCES']",
+    "home/onlineExperienceLink":"//a[@href='/s/experiences/online']"
+}
